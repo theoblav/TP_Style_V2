@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TP_Style</string>
+    <string name="titre">Titre</string>
+    <string name="sous_titre">Sous-Titre</string>
+    <string name="text1">Tp Style et Thème</string>
+    <string name="valider">Valider</string>
+    <string name="supprimer">Supprimer</string>
+
+</resources>

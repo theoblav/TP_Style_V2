@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="styleTitre">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/bleu</item>
+        <item name="android:textSize">@dimen/taille_titre</item>
+    </style>
+
+    <style name="styleSous_Titre" parent="styleTitre">
+        <item name="android:textSize">@dimen/taille_st</item>
+    </style>
+
+    <style name="styleTxt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/noir</item>
+        <item name="android:textSize">@dimen/taille_txt</item>
+    </style>
+
+    <style name="styleBtn" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@color/blanc</item>
+        <item name="android:textSize">@dimen/taille_txt_btn</item>
+        <item name="android:background">@color/bleu</item>
+        <item name="android:minWidth">90dp</item>
+        <item name="android:minHeight">45dp</item>
+    </style>
+
+</resources>
